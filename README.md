@@ -16,7 +16,7 @@ train.py - 训练脚本
 下载[CelebA-HQ数据集](https://github.com/switchablenorms/CelebAMask-HQ)，通过--dataset_path与--attribute_txt_path参数传入数据集路径和属性标签路径
 
 ### Inference
-下载模型预训练权重，保存至./checkpoints/目录下，详见./checkpoints/readme.txt
+下载模型预训练权重，保存至./checkpoints/目录下，详见./checkpoints/readme.md
 
 运行推理脚本：
 ```python inference.py```

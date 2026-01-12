@@ -42,6 +42,7 @@ google drive中下载：```https://drive.google.com/drive/folders/1_YI5hyfHpWVF6
 通过```python test.py```运行测试脚本：
 
 face&hair_perturb_dualmask为PG前后都加入属性掩码，权重文件选择```./checkpoints/cross_model_adv/face&hair_perturb_dualmask.pth```
+通过```python test.py```运行测试脚本，模型选择```PG_face&hair_dualmask```
 
 跨模型集成防御推理时eposilon设置为0.02
 

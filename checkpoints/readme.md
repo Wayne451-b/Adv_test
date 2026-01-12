@@ -39,7 +39,7 @@ google drive中下载：```https://drive.google.com/drive/folders/1_YI5hyfHpWVF6
 在```--face_pretrained_weights```与```--hair_pretrained_weights```中修改预训练权重路径
 
 其中```face&hair_perturb_mask_out```为PG后加入属性掩码，权重文件选择```./checkpoints/cross_model_adv/face&hair_perturb_mask_out.pth```
-通过```python test.py```运行测试脚本：
+通过```python test.py```运行测试脚本，模型选择```PG_face&hair_model```
 
 face&hair_perturb_dualmask为PG前后都加入属性掩码，权重文件选择```./checkpoints/cross_model_adv/face&hair_perturb_dualmask.pth```
 通过```python test.py```运行测试脚本，模型选择```PG_face&hair_dualmask```

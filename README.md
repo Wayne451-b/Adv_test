@@ -34,5 +34,5 @@ train.py - 训练脚本
 
 ### Acknowledgement
 非常感谢以下项目给予的贡献与帮助：
-This code is based on [Proactive-Defense-Against-Facial-Editing's benchmark](https://github.com/imagecbj/Proactive-Defense-Against-Facial-Editing-in-DWT), [BiSeNet](https://github.com/yakhyo/face-parsing), and [UVCGAN](https://github.com/LS4GAN/uvcgan) etc.
+This code is based on [Proactive-Defense-Against-Facial-Editing's benchmark](https://github.com/imagecbj/Proactive-Defense-Against-Facial-Editing-in-DWT), [BiSeNet](https://github.com/yakhyo/face-parsing), [AdvGAN](https://github.com/mathcbc/advGAN_pytorch) and [UVCGAN](https://github.com/LS4GAN/uvcgan) etc.
 Thanks for their great contribution.

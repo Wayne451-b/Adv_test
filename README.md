@@ -1,4 +1,6 @@
-## Defending Deepfakes by Attribute-Aware Attack
+### Environment
+```pytorch >=1.13.0```
+详细配置请查看environment.yml，其中的依赖并不是完全必须安装的，仅供参考。
 
 ### Files
 1. ./checkpoints - 训练模型保存目录
